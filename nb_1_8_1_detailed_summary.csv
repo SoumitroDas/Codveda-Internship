@@ -1,0 +1,26 @@
+Attribute,Value
+Lineage,NB.1.8.1
+Variant Name,Nimbus
+WHO Status,Variant Under Monitoring (VUM)
+Designation Date,23 May 2025
+Earliest Sample Date,22 January 2025
+Total Countries,22
+Total Sequences,518
+Week 14 (%),2.5
+Week 15 (%),4.1
+Week 16 (%),7.1
+Week 17 (%),10.7
+Western Pacific Region (WPR) Growth,8.9% to 11.7%
+Region of the Americas (AMR) Growth,1.6% to 4.9%
+European Region (EUR) Growth,1.0% to 6.0%
+Africa/Mediterranean (Data),Very limited/no data
+Spike Mutations,"T22N, F59S, G184S, A435S, V445H, T478I, Q493E"
+Neutralization Fold Reduction,1.5–1.6-fold reduction vs LP.8.1.1
+Antibody Escape (Class),"Class 1/2 (T478I), A435S affects all epitopes"
+Severity,No increase observed in ICU/deaths
+Growth Advantage (Logistic Regression),Higher than most co-circulating variants except XFG
+ACE2 Binding,"Moderate engagement, higher than XFH/XEC but lower than LP.8.1.1"
+Vero Cell Infectivity,Robust infectivity in vitro
+Immune Escape Risk,Low (Confidence: Low)
+Severity Risk,Low (Confidence: Low)
+Overall WHO Risk,Low

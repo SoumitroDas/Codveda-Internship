@@ -1,0 +1,2 @@
+Lineage,Variant Name,Countries,Sequences,Prevalence Week 14 (%),Prevalence Week 15 (%),Prevalence Week 16 (%),Prevalence Week 17 (%),Prevalence Trend,Percent Increase (Week 14 to 17),Western Pacific Growth Rate (%),Americas Growth Rate (%),Europe Growth Rate (%),Severity Risk,Overall WHO Risk,Spike Mutations,Visualizations
+NB.1.8.1,Nimbus,22,518,2.5,4.09999999999999,7.1,10.7,Increasing,328.00%,31.46%,206.25%,500.00%,Low (Confidence: Low),Low,"['T22N', 'F59S', 'G184S', 'A435S', 'V445H', 'T478I', 'Q493E']","nb181_prevalence_plot.png, nb181_regional_growth_plot.png"

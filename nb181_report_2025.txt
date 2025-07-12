@@ -1,0 +1,22 @@
+
+NB.1.8.1 Variant Report (2025)
+=============================
+Lineage: NB.1.8.1
+Variant Name: Nimbus
+Countries: 22
+Sequences: 518
+Prevalence (2025):
+  Week 14: 2.5%
+  Week 15: 4.1%
+  Week 16: 7.1%
+  Week 17: 10.7%
+Prevalence Trend: Increasing
+Percent Increase (Week 14 to 17): 328.00%
+Regional Growth Rates:
+  Western Pacific: 31.46%
+  Americas: 206.25%
+  Europe: 500.00%
+Severity Risk: Low (Confidence: Low)
+Overall WHO Risk: Low
+Spike Mutations: ['T22N', 'F59S', 'G184S', 'A435S', 'V445H', 'T478I', 'Q493E']
+Visualizations: nb181_prevalence_plot.png, nb181_regional_growth_plot.png
